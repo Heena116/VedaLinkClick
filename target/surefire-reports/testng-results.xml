@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10019" started-at="2023-02-09T11:11:10Z" finished-at="2023-02-09T11:11:20Z">
+  <suite name="Suite" duration-ms="12667" started-at="2023-02-09T11:42:14Z" finished-at="2023-02-09T11:42:26Z">
     <groups>
     </groups>
-    <test name="Veda" duration-ms="10019" started-at="2023-02-09T11:11:10Z" finished-at="2023-02-09T11:11:20Z">
+    <test name="Veda" duration-ms="12667" started-at="2023-02-09T11:42:14Z" finished-at="2023-02-09T11:42:26Z">
       <class name="SeleniumFramework.VedaLinkClick.VedaLink">
-        <test-method status="PASS" signature="ClickLink()[pri:0, instance:SeleniumFramework.VedaLinkClick.VedaLink@e7dcfd]" name="ClickLink" duration-ms="9994" started-at="2023-02-09T11:11:10Z" finished-at="2023-02-09T11:11:20Z">
+        <test-method status="PASS" signature="ClickLink()[pri:0, instance:SeleniumFramework.VedaLinkClick.VedaLink@e7dcfd]" name="ClickLink" duration-ms="12640" started-at="2023-02-09T11:42:14Z" finished-at="2023-02-09T11:42:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickLink -->
